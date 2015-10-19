@@ -11,7 +11,7 @@
         "doctrine/doctrine-bundle": "~1.4"
     },
     "autoload": {
-        "psr-0": { "samuel4x4\\AclDoctrineQueryBundle": "" }
+        "psr-4": { "samuel4x4\\AclDoctrineQueryBundle": "" }
     },
     "target-dir": "samuel4x4/AclDoctrineQueryBundle"
 }
