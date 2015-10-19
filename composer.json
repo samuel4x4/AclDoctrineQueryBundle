@@ -1,7 +1,7 @@
 {
-    "name": "kos4live/acldoctrinequery-bundle",
+    "name": "samuel4x4/acldoctrinequery-bundle",
     "description": "Symfony2 Helper Bundle for ACL",
-    "homepage": "https://github.com/kos4live/AclDoctrineQueryBundle",
+    "homepage": "https://github.com/samuel4x4/AclDoctrineQueryBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "require": {
@@ -11,7 +11,7 @@
         "doctrine/doctrine-bundle": "~1.4"
     },
     "autoload": {
-        "psr-0": { "kos4live\\AclDoctrineQueryBundle": "" }
+        "psr-0": { "samuel4x4\\AclDoctrineQueryBundle": "" }
     },
-    "target-dir": "kos4live/AclDoctrineQueryBundle"
+    "target-dir": "samuel4x4/AclDoctrineQueryBundle"
 }
