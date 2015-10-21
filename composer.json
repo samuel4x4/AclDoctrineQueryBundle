@@ -1,6 +1,6 @@
 {
     "name": "samuel4x4/acldoctrinequery-bundle",
-    "description": "Symfony2 Helper Bundle for ACL",
+    "description": "Symfony2 Helper Bundle for ACLs",
     "homepage": "https://github.com/samuel4x4/AclDoctrineQueryBundle",
     "type": "symfony-bundle",
     "license": "MIT",
